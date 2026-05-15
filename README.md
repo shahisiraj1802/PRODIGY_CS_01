@@ -31,4 +31,4 @@ ygneqog
 
 ## Output Screenshot
 
-![Output Screenshot](Output ceaser cipher.png)
+![Output Screenshot](Output Caesar cipher.png)
